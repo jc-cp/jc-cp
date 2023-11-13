@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Juan Carlos Climent Pardo!
+## Hi there 👋, I'm Juan Carlos or Jc!
 
 ## 🌱 About Me:
 
