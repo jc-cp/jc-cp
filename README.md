@@ -24,13 +24,13 @@
     
 ## 🛠️ Skills:
   Languages: Spanish, German, English, Catalan, French, Italian. \
-  Programming: C, C++, Python, SQL. \
-  Tools: ROS, Matlab, PCB Design, CAD, PyTorch, TensorFlow. 
+  Programming: C, C++, Python, SQL, R. \
+  Tools: Pytorch, Git, Linux, AWS, ROS, Matlab, PCB Design, CAD, TensorFlow. 
 
 ## 🌐 Projects & Interests:
 
   🤖 Member of Formula Student Germany, focusing on electronics and high-voltage accumulator design. \
-  🏆 Winner of Jugend Forscht National and other accolades. \
+  🏆 Winner of Jugend Forscht National. \
   📸 Hobbies include triathlon, skiing, hiking, sailing, photography, and drones.
 
 ## 🔗 Find me on:
