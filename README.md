@@ -13,7 +13,7 @@
   🖼️ Diffusion models for lung and breast cancer @Ryver.ai to improve the quality and reduce biases of AI algorithms. \
   🚗 Data Science & Machine Learning Consultant @ BMW, where I worked on anomaly detection and predictive analytics for charging stations. \
   🤖 Software Engineering & Robotics @ Motius, specializing in AMR robotics software development, sensor fusion, and computer vision. \
-  🏥 Machine Learning @ Hospital Klinikum rechts der Isar (MRI), detecting rib fractures and classifying them. \ 
+  🏥 Machine Learning @ Hospital Klinikum rechts der Isar (MRI), detecting rib fractures and classifying them. \
   🚙 Data Science & Research @ Fraunhofer Gesellschaft, optimizing electric charging stations data acquisition and strategies. 
 
 ## 🎓 Education Highlights:
