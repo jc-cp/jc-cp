@@ -2,17 +2,19 @@
 
 ## 🌱 About Me:
 
-  🎓 I'm a Spanish/German student specializing in robotics and artificial intelligence, currently living in Boston. \
-  🤖 Passionate about healthcare robotics, MedTech, drones, autonomous driving, and all of their intersection with AI. \
+  🎓 I'm a Spanish/German engineer specializing in robotics and artificial intelligence, currently living in Boston. \
+  🤖 Passionate about healthcare, robotics, MedTech, drones, autonomous driving, and all of their intersection with AI. \
   🧠 Currently focusing on machine learning and deep learning applications in the medical realm. Proficient in Python, C++, and SQL with knowledge in CAD and PCB design. \
   💼 Experienced in project management and customer relations.
 
 ## 👨‍💻 Professional Experience:
 
   🏥 Researcher in AI & Radiation Oncology @ Brigham and Women’s Hospital and @ Harvard Medical School, focusing on pediatric cerebral cancer research and AI modeling in MRI image segmentation. \
-  🖼️ Diffusion models @Ryver.ai to improve the quality and reduce biases of AI algorithms. \
+  🖼️ Diffusion models for lung and breast cancer @Ryver.ai to improve the quality and reduce biases of AI algorithms. \
   🚗 Data Science & Machine Learning Consultant @ BMW, where I worked on anomaly detection and predictive analytics for charging stations. \
-  🤖 Software Engineering & Robotics @ Motius, specializing in robotics software development, sensor fusion, and computer vision. 
+  🤖 Software Engineering & Robotics @ Motius, specializing in AMR robotics software development, sensor fusion, and computer vision. \
+  🏥 Machine Learning @ Hospital Klinikum rechts der Isar (MRI), detecting rib fractures and classifying them. \ 
+  🚙 Data Science & Research @ Fraunhofer Gesellschaft, optimizing electric charging stations data acquisition and strategies. 
 
 ## 🎓 Education Highlights:
   
