@@ -38,7 +38,7 @@
 ## 🔗 Find me on:
 
   [LinkedIn](https://www.linkedin.com/in/juan-carlos-climent-pardo/) \
-  [Personal Website] : In the works! \
+  [Personal Website](https://jc-cp.com) Still in the works! \
   
 
 Feel free to reach out for collaborations or just a friendly chat about technology and innovation!
