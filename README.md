@@ -2,10 +2,10 @@
 
 ## 🌱 About Me:
 
-  🎓 I'm a Spanish/German engineer specializing in robotics and artificial intelligence, currently living in Boston. \
-  🤖 Passionate about healthcare, robotics, MedTech, drones, autonomous driving, and all of their intersection with AI. \
-  🧠 Currently focusing on machine learning and deep learning applications in the medical realm. Proficient in Python, C++, and SQL with knowledge in CAD and PCB design. \
-  💼 Experienced in project management and customer relations.
+  🎓 I'm a Spanish/German engineer specializing in robotics and artificial intelligence, currently living in Munich. \
+  🤖 Passionate about healthcare, robotics, MedTech, drones, defense applications, autonomous driving, and all of their intersection swith AI. \
+  🧠 Currently focusing on ML/DL applications in the medical and defense realm. Mostly I do Python, C++, and some minor SQL. Previously I was big into CAD, 3D printing, and PCB design. \
+  🔍 I just started to learn Rust!
 
 ## 👨‍💻 Professional Experience:
 
@@ -19,20 +19,19 @@
 ## 🎓 Education Highlights:
   
   📚 Visiting Scholar @ Harvard Medical School (HMS), and @ Brigham and Women’s Hospital's (BWH) AIM Laboratory. \
-  🧰 Honours Degree in Technology Management @ Center of Digital Technology and Management (CDTM). \
-  🌟 Honours Degree in Leadership and Management @ Bayerische EliteAkademie. \
+  🧰 Honors Degree in Technology Management @ Center of Digital Technology and Management (CDTM). \
+  🌟 Honors Degree in Leadership and Management @ Bayerische EliteAkademie. \
   🔍 Master of Science in Robotics, Cognition and Intelligence @ Technical University Munich (TUM). \
   🔍 Bachelor of Mechatronics and Information Technology @ Karlsruher Institute of Technology (KIT). 
     
 ## 🛠️ Skills:
   Languages: Spanish, German, English, Catalan, French, Italian. \
   Programming: C, C++, Python, SQL, R. \
-  Tools: Pytorch, Git, Linux, AWS, ROS, Matlab, PCB Design, CAD, TensorFlow. 
+  Tools: Pytorch, Git, Linux, GCP, AWS, ROS, Matlab, PCB Design, CAD. 
 
 ## 🌐 Projects & Interests:
 
   🤖 Member of Formula Student Germany, focusing on electronics and high-voltage accumulator design. \
-  🏆 Winner of Jugend Forscht National. \
   📸 Hobbies include triathlon, skiing, hiking, sailing, photography, and drones.
 
 ## 🔗 Find me on:
